@@ -16,8 +16,8 @@ This website can calculate the distance between 2 location and it can also give 
 
 **Screenshots:**
 
-<img src="https://github.com/batuhankok/html-distance-route-maps/blob/master/ss1.jpg" width="400">
-<img src="https://github.com/batuhankok/html-distance-route-maps/blob/master/ss2.jpg" width="400">
+<img src="https://github.com/batuhankok/html-distance-route-maps/blob/master/ss1.jpg" width="465">
+<img src="https://github.com/batuhankok/html-distance-route-maps/blob/master/ss2.jpg" width="309">
 
 You can contact me about every topics, thank you all!
 

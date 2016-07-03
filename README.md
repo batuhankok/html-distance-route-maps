@@ -14,6 +14,8 @@ This website can calculate the distance between 2 location and it can also give 
 - You can print the page easily.
 - And much more.
 
+You can contact me about every topics, thank you all!
+
 <hr />
 **Batuhan KÖK**
 | *Web & Mobile Developer*

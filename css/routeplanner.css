@@ -176,6 +176,7 @@ input[type="submit"] {
 	padding: 20px;
 	margin: 0 auto;
     margin-top:-20px;
+    margin-bottom: 30px;
 	box-shadow: 0px 0px 6px #999;
     border-top-left-radius: 0px;
     border-top-right-radius: 0px;
@@ -242,6 +243,7 @@ input[type="submit"] {
 	color:#FFF;
 	font-size:14px;
 	top:0;
+    right: 20px;
 	float:right;
 	-webkit-border-bottom-right-radius: 5px;
 	-webkit-border-bottom-left-radius: 5px;
@@ -274,7 +276,7 @@ input[type="submit"] {
 /* --- MAP CONTAINER --- */ 
 .mapcontainer {
 	width:960px;
-	height:360px;
+	height:400px;
 	margin:0px auto;
 	z-index:-1;
 	margin-bottom:20px;
